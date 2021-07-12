@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+/* text styling */
+
+.RapperAboutInfo {
+    background-color: rgb(37, 37, 37);
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    width: 700px;
+    margin: 200px;
+    margin-left: 30%;
+    padding: 20px;
+}
+
+.nameAuthor {
+    background-color: #555;
+    color: whitesmoke;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+p.skills {
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+.title-section {
+    background-color: #555;
+    color: whitesmoke;
+    border-radius: 4px;
+    padding: 5px;
+    width: 87px;
+    margin-left: 5px;
+}
+
