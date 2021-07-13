@@ -37,6 +37,7 @@ body {
 
 .navbar-links li {
     list-style: none;
+    transition: all 0.3s ease 0s;
 }
 
 .navbar-links li a {
