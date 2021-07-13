@@ -40,3 +40,8 @@ p.saying {
     float: left;
     margin-right: 10px;
 }
+
+footer {
+    font-size: 10px;
+    color: white;
+}

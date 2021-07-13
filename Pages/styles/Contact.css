@@ -35,3 +35,8 @@ p {
     width: 360px;
     margin-left: 0;
 }
+
+footer {
+    font-size: 10px;
+    color: white;
+}
