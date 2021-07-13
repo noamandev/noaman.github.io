@@ -39,4 +39,5 @@ p {
 footer {
     font-size: 10px;
     color: white;
+    text-decoration: underline;
 }

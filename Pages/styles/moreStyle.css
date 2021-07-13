@@ -56,4 +56,5 @@ h4, p, h1, h2 {
 footer {
     font-size: 10px;
     color: white;
+    text-decoration: underline;
 }
