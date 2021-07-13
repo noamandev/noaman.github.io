@@ -40,12 +40,3 @@ p.saying {
     float: left;
     margin-right: 10px;
 }
-
-
-footer {
-    text-align: right;
-    background-color: rgb(66, 65, 65);
-    color: white;
-    padding: 10px;
-    font-weight: bold;
-}
