@@ -35,3 +35,12 @@ p {
     width: 360px;
     margin-left: 0;
 }
+
+
+footer {
+    text-align: right;
+    background-color: rgb(66, 65, 65);
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
