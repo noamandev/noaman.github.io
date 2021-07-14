@@ -46,3 +46,9 @@ footer {
     color: white;
     text-decoration: underline;
 }
+
+@media (max-width: 400px) {
+    .imgMATH4MATH, .IMG2 {
+        float: none;
+    }
+}
