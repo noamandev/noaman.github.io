@@ -59,9 +59,6 @@ body {
     height: 21px;
 }
 
-.toggle-button:hover {
-    background-color: #555;
-}
 
 .toggle-button .bar {
     height: 3px;
