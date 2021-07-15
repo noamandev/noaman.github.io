@@ -59,12 +59,17 @@ body {
     height: 21px;
 }
 
+.toggle-button:hover {
+    background-color: #555;
+}
+
 .toggle-button .bar {
     height: 3px;
     width: 100%;
     background-color: white;
     border-radius: 10px;
 }
+
 
 @media (max-width: 800px) {
     .navbar {
