@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
+/* global styling */
+
+footer {
+    font-size: 10px;
+    color: white;
+    text-decoration: underline;
+}
+
 /* text styling */
 h4, p, h1, h2 {
     color: white;
@@ -26,23 +34,21 @@ p.saying {
 
 /* image styling */
 .imgMATH4MATH {
-    width: 550px;
+    width: 430px;
     border: 2px black solid;
-    border-radius: 19px;
     float: left;
     margin-right: 10px;
 }
+
 
 .IMG2 {
-    width: 550px;
+    width: 430px;
     border: 2px black solid;
-    border-radius: 19px;
     float: left;
     margin-right: 10px;
 }
 
-footer {
-    font-size: 10px;
-    color: white;
-    text-decoration: underline;
+img {
+    border-radius: 50px;
 }
+

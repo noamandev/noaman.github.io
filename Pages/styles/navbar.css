@@ -34,6 +34,7 @@ body {
 
 .navbar-links li {
     list-style: none;
+    transition: all 0.9s ease 0s;
 }
 
 .navbar-links li a {
@@ -44,7 +45,6 @@ body {
 }
 
 .navbar-links li:hover {
-    transition: all 0.5s ease 0s;
     background-color: #555;
 }
 
