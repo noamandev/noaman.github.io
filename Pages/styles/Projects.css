@@ -6,7 +6,30 @@ footer {
     font-size: 10px;
     color: white;
     text-decoration: underline;
+    clear: both;
 }
+
+.card {
+    background: rgb(46, 45, 45);
+    width: 490px;
+    padding: 10px;
+    border-radius: 30px;
+    margin: 6px;
+    transform: scale(20px)
+}
+
+.card:hover {
+    transform: translateY(-9px);
+    box-shadow: 2px 2px 30px rgb(46, 45, 45);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit , minmax(25rem, 1fr));
+    align-items: flex-start;
+}
+
 
 /* text styling */
 h4, p, h1, h2 {
@@ -15,36 +38,29 @@ h4, p, h1, h2 {
     font-weight: 500;
 }
 
-p.saying {
+p.main-title {
     color: lightgrey;
-    margin-left: 42%;
     padding: 0;
     font-size: large;
+    text-align: center;
 }
 
-.page-title {
+h1.page-title {
     font-weight: bold;
     font-size: 40px;
     font-family: cursive;
     margin: 0;
     padding: 0;
-    margin-left: 40%;
+    text-align: center;
 }
-
 
 /* image styling */
-.imgMATH4MATH {
+
+.ytPhoto,
+.cameraPhoto,
+.CoverPageComic {
     width: 430px;
     border: 2px black solid;
-    float: left;
-    margin-right: 10px;
-}
-
-
-.IMG2 {
-    width: 430px;
-    border: 2px black solid;
-    float: left;
     margin-right: 10px;
 }
 
