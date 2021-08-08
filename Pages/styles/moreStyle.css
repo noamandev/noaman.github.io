@@ -19,17 +19,6 @@ h4, p, h1, h2 {
     font-weight: 500;
 }
 
-/* image styling */
-
-.imgMATH4MATH {
-    width: 550px;
-    border-radius: 19px;
-    float: left;
-    margin-right: 10px;
-}
-
-/* title styling */
-
 .title1 {
     text-decoration: underline;
     color: rgb(200, 200, 209);
@@ -52,6 +41,8 @@ h4, p, h1, h2 {
   background-color: orangered;
   cursor: pointer;
 }
+
+/* global styling */
 
 footer {
     font-size: 10px;
