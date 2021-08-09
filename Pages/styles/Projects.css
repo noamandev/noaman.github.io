@@ -23,9 +23,11 @@ footer {
     box-shadow: 2px 2px 30px rgb(46, 45, 45);
 }
 
-.grid {
+/* layout design */
+
+.grid { 
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-template-columns: 1fr 1fr 1fr; */
     grid-template-columns: repeat(auto-fit , minmax(25rem, 1fr));
     align-items: flex-start;
 }
