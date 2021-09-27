@@ -54,6 +54,13 @@ p.education {
     display: flex;
 }
 
+@media (max-width: 400px) {
+    .wrapperHobbie {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
 /* element styling */
 
 footer {
