@@ -2,4 +2,3 @@ test.txt
 node_modules/
 package-lock.json
 .env
-config.json
